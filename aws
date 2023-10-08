@@ -4,6 +4,5 @@ Now push the source code to github : git push -u origin branch_name
 Then it will ask username : provider github username 
 Now it will ask password : generate a token and paste here
 How to generate a token : setting >>>>> developer settings >>> personal access token >>
-generate a token >>> name : token name >>> scopes : repositories
-
+ added here some data in local
 I added some data into github or central
